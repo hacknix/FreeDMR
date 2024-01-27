@@ -1,6 +1,6 @@
 # FreeDMR 
 
-FreeDMR is not on GitHub. The **ONLY** official source for FreeDMR is at [here](https://gitlab.hacknix.net/hacknix/FreeDMR)
+FreeDMR is not on GitHub. The **ONLY** official source for FreeDMR is [here](https://gitlab.hacknix.net/hacknix/FreeDMR)
 
 Beware of imitations ;-) 
 
